@@ -1,0 +1,14 @@
+D:\Домашка\ООП\Lab13\Lab13\4_Extract_Sentences_by_Keyword\bin\Debug\net7.0\4_Extract_Sentences_by_Keyword.exe
+D:\Домашка\ООП\Lab13\Lab13\4_Extract_Sentences_by_Keyword\bin\Debug\net7.0\4_Extract_Sentences_by_Keyword.deps.json
+D:\Домашка\ООП\Lab13\Lab13\4_Extract_Sentences_by_Keyword\bin\Debug\net7.0\4_Extract_Sentences_by_Keyword.runtimeconfig.json
+D:\Домашка\ООП\Lab13\Lab13\4_Extract_Sentences_by_Keyword\bin\Debug\net7.0\4_Extract_Sentences_by_Keyword.dll
+D:\Домашка\ООП\Lab13\Lab13\4_Extract_Sentences_by_Keyword\bin\Debug\net7.0\4_Extract_Sentences_by_Keyword.pdb
+D:\Домашка\ООП\Lab13\Lab13\4_Extract_Sentences_by_Keyword\obj\Debug\net7.0\4_Extract_Sentences_by_Keyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашка\ООП\Lab13\Lab13\4_Extract_Sentences_by_Keyword\obj\Debug\net7.0\4_Extract_Sentences_by_Keyword.AssemblyInfoInputs.cache
+D:\Домашка\ООП\Lab13\Lab13\4_Extract_Sentences_by_Keyword\obj\Debug\net7.0\4_Extract_Sentences_by_Keyword.AssemblyInfo.cs
+D:\Домашка\ООП\Lab13\Lab13\4_Extract_Sentences_by_Keyword\obj\Debug\net7.0\4_Extract_Sentences_by_Keyword.csproj.CoreCompileInputs.cache
+D:\Домашка\ООП\Lab13\Lab13\4_Extract_Sentences_by_Keyword\obj\Debug\net7.0\4_Extract_Sentences_by_Keyword.dll
+D:\Домашка\ООП\Lab13\Lab13\4_Extract_Sentences_by_Keyword\obj\Debug\net7.0\refint\4_Extract_Sentences_by_Keyword.dll
+D:\Домашка\ООП\Lab13\Lab13\4_Extract_Sentences_by_Keyword\obj\Debug\net7.0\4_Extract_Sentences_by_Keyword.pdb
+D:\Домашка\ООП\Lab13\Lab13\4_Extract_Sentences_by_Keyword\obj\Debug\net7.0\4_Extract_Sentences_by_Keyword.genruntimeconfig.cache
+D:\Домашка\ООП\Lab13\Lab13\4_Extract_Sentences_by_Keyword\obj\Debug\net7.0\ref\4_Extract_Sentences_by_Keyword.dll

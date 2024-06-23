@@ -1,0 +1,14 @@
+D:\Домашка\ООП\Lab14\Lab14\6_Filter_Students_by_Phone\bin\Debug\net7.0\6_Filter_Students_by_Phone.exe
+D:\Домашка\ООП\Lab14\Lab14\6_Filter_Students_by_Phone\bin\Debug\net7.0\6_Filter_Students_by_Phone.deps.json
+D:\Домашка\ООП\Lab14\Lab14\6_Filter_Students_by_Phone\bin\Debug\net7.0\6_Filter_Students_by_Phone.runtimeconfig.json
+D:\Домашка\ООП\Lab14\Lab14\6_Filter_Students_by_Phone\bin\Debug\net7.0\6_Filter_Students_by_Phone.dll
+D:\Домашка\ООП\Lab14\Lab14\6_Filter_Students_by_Phone\bin\Debug\net7.0\6_Filter_Students_by_Phone.pdb
+D:\Домашка\ООП\Lab14\Lab14\6_Filter_Students_by_Phone\obj\Debug\net7.0\6_Filter_Students_by_Phone.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашка\ООП\Lab14\Lab14\6_Filter_Students_by_Phone\obj\Debug\net7.0\6_Filter_Students_by_Phone.AssemblyInfoInputs.cache
+D:\Домашка\ООП\Lab14\Lab14\6_Filter_Students_by_Phone\obj\Debug\net7.0\6_Filter_Students_by_Phone.AssemblyInfo.cs
+D:\Домашка\ООП\Lab14\Lab14\6_Filter_Students_by_Phone\obj\Debug\net7.0\6_Filter_Students_by_Phone.csproj.CoreCompileInputs.cache
+D:\Домашка\ООП\Lab14\Lab14\6_Filter_Students_by_Phone\obj\Debug\net7.0\6_Filter_Students_by_Phone.dll
+D:\Домашка\ООП\Lab14\Lab14\6_Filter_Students_by_Phone\obj\Debug\net7.0\refint\6_Filter_Students_by_Phone.dll
+D:\Домашка\ООП\Lab14\Lab14\6_Filter_Students_by_Phone\obj\Debug\net7.0\6_Filter_Students_by_Phone.pdb
+D:\Домашка\ООП\Lab14\Lab14\6_Filter_Students_by_Phone\obj\Debug\net7.0\6_Filter_Students_by_Phone.genruntimeconfig.cache
+D:\Домашка\ООП\Lab14\Lab14\6_Filter_Students_by_Phone\obj\Debug\net7.0\ref\6_Filter_Students_by_Phone.dll

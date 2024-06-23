@@ -1,0 +1,14 @@
+C:\Users\tarro\source\repos\solutionLab12\match_full_name\bin\Debug\net6.0\match_full_name.exe
+C:\Users\tarro\source\repos\solutionLab12\match_full_name\bin\Debug\net6.0\match_full_name.deps.json
+C:\Users\tarro\source\repos\solutionLab12\match_full_name\bin\Debug\net6.0\match_full_name.runtimeconfig.json
+C:\Users\tarro\source\repos\solutionLab12\match_full_name\bin\Debug\net6.0\match_full_name.dll
+C:\Users\tarro\source\repos\solutionLab12\match_full_name\bin\Debug\net6.0\match_full_name.pdb
+C:\Users\tarro\source\repos\solutionLab12\match_full_name\obj\Debug\net6.0\match_full_name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarro\source\repos\solutionLab12\match_full_name\obj\Debug\net6.0\match_full_name.AssemblyInfoInputs.cache
+C:\Users\tarro\source\repos\solutionLab12\match_full_name\obj\Debug\net6.0\match_full_name.AssemblyInfo.cs
+C:\Users\tarro\source\repos\solutionLab12\match_full_name\obj\Debug\net6.0\match_full_name.csproj.CoreCompileInputs.cache
+C:\Users\tarro\source\repos\solutionLab12\match_full_name\obj\Debug\net6.0\match_full_name.dll
+C:\Users\tarro\source\repos\solutionLab12\match_full_name\obj\Debug\net6.0\refint\match_full_name.dll
+C:\Users\tarro\source\repos\solutionLab12\match_full_name\obj\Debug\net6.0\match_full_name.pdb
+C:\Users\tarro\source\repos\solutionLab12\match_full_name\obj\Debug\net6.0\match_full_name.genruntimeconfig.cache
+C:\Users\tarro\source\repos\solutionLab12\match_full_name\obj\Debug\net6.0\ref\match_full_name.dll

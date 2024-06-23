@@ -1,0 +1,14 @@
+D:\Домашка\ООП\Lab14\Lab14\3_Students_by_Age\bin\Debug\net7.0\3_Students_by_Age.exe
+D:\Домашка\ООП\Lab14\Lab14\3_Students_by_Age\bin\Debug\net7.0\3_Students_by_Age.deps.json
+D:\Домашка\ООП\Lab14\Lab14\3_Students_by_Age\bin\Debug\net7.0\3_Students_by_Age.runtimeconfig.json
+D:\Домашка\ООП\Lab14\Lab14\3_Students_by_Age\bin\Debug\net7.0\3_Students_by_Age.dll
+D:\Домашка\ООП\Lab14\Lab14\3_Students_by_Age\bin\Debug\net7.0\3_Students_by_Age.pdb
+D:\Домашка\ООП\Lab14\Lab14\3_Students_by_Age\obj\Debug\net7.0\3_Students_by_Age.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашка\ООП\Lab14\Lab14\3_Students_by_Age\obj\Debug\net7.0\3_Students_by_Age.AssemblyInfoInputs.cache
+D:\Домашка\ООП\Lab14\Lab14\3_Students_by_Age\obj\Debug\net7.0\3_Students_by_Age.AssemblyInfo.cs
+D:\Домашка\ООП\Lab14\Lab14\3_Students_by_Age\obj\Debug\net7.0\3_Students_by_Age.csproj.CoreCompileInputs.cache
+D:\Домашка\ООП\Lab14\Lab14\3_Students_by_Age\obj\Debug\net7.0\3_Students_by_Age.dll
+D:\Домашка\ООП\Lab14\Lab14\3_Students_by_Age\obj\Debug\net7.0\refint\3_Students_by_Age.dll
+D:\Домашка\ООП\Lab14\Lab14\3_Students_by_Age\obj\Debug\net7.0\3_Students_by_Age.pdb
+D:\Домашка\ООП\Lab14\Lab14\3_Students_by_Age\obj\Debug\net7.0\3_Students_by_Age.genruntimeconfig.cache
+D:\Домашка\ООП\Lab14\Lab14\3_Students_by_Age\obj\Debug\net7.0\ref\3_Students_by_Age.dll

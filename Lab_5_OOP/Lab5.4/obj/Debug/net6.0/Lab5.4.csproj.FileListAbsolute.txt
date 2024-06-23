@@ -1,0 +1,28 @@
+D:\lab2.1\Lab5.4\bin\Debug\net6.0\Lab5.4.exe
+D:\lab2.1\Lab5.4\bin\Debug\net6.0\Lab5.4.deps.json
+D:\lab2.1\Lab5.4\bin\Debug\net6.0\Lab5.4.runtimeconfig.json
+D:\lab2.1\Lab5.4\bin\Debug\net6.0\Lab5.4.dll
+D:\lab2.1\Lab5.4\bin\Debug\net6.0\Lab5.4.pdb
+D:\lab2.1\Lab5.4\obj\Debug\net6.0\Lab5.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab2.1\Lab5.4\obj\Debug\net6.0\Lab5.4.AssemblyInfoInputs.cache
+D:\lab2.1\Lab5.4\obj\Debug\net6.0\Lab5.4.AssemblyInfo.cs
+D:\lab2.1\Lab5.4\obj\Debug\net6.0\Lab5.4.csproj.CoreCompileInputs.cache
+D:\lab2.1\Lab5.4\obj\Debug\net6.0\Lab5.4.dll
+D:\lab2.1\Lab5.4\obj\Debug\net6.0\refint\Lab5.4.dll
+D:\lab2.1\Lab5.4\obj\Debug\net6.0\Lab5.4.pdb
+D:\lab2.1\Lab5.4\obj\Debug\net6.0\Lab5.4.genruntimeconfig.cache
+D:\lab2.1\Lab5.4\obj\Debug\net6.0\ref\Lab5.4.dll
+D:\Lab5 ООП\Lab5.4\bin\Debug\net6.0\Lab5.4.exe
+D:\Lab5 ООП\Lab5.4\bin\Debug\net6.0\Lab5.4.deps.json
+D:\Lab5 ООП\Lab5.4\bin\Debug\net6.0\Lab5.4.runtimeconfig.json
+D:\Lab5 ООП\Lab5.4\bin\Debug\net6.0\Lab5.4.dll
+D:\Lab5 ООП\Lab5.4\bin\Debug\net6.0\Lab5.4.pdb
+D:\Lab5 ООП\Lab5.4\obj\Debug\net6.0\Lab5.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab5 ООП\Lab5.4\obj\Debug\net6.0\Lab5.4.AssemblyInfoInputs.cache
+D:\Lab5 ООП\Lab5.4\obj\Debug\net6.0\Lab5.4.AssemblyInfo.cs
+D:\Lab5 ООП\Lab5.4\obj\Debug\net6.0\Lab5.4.csproj.CoreCompileInputs.cache
+D:\Lab5 ООП\Lab5.4\obj\Debug\net6.0\Lab5.4.dll
+D:\Lab5 ООП\Lab5.4\obj\Debug\net6.0\refint\Lab5.4.dll
+D:\Lab5 ООП\Lab5.4\obj\Debug\net6.0\Lab5.4.pdb
+D:\Lab5 ООП\Lab5.4\obj\Debug\net6.0\Lab5.4.genruntimeconfig.cache
+D:\Lab5 ООП\Lab5.4\obj\Debug\net6.0\ref\Lab5.4.dll

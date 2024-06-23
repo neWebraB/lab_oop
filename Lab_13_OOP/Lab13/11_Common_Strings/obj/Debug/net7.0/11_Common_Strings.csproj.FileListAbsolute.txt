@@ -1,0 +1,14 @@
+D:\Домашка\ООП\Lab13\Lab13\11_Common_Strings\bin\Debug\net7.0\11_Common_Strings.exe
+D:\Домашка\ООП\Lab13\Lab13\11_Common_Strings\bin\Debug\net7.0\11_Common_Strings.deps.json
+D:\Домашка\ООП\Lab13\Lab13\11_Common_Strings\bin\Debug\net7.0\11_Common_Strings.runtimeconfig.json
+D:\Домашка\ООП\Lab13\Lab13\11_Common_Strings\bin\Debug\net7.0\11_Common_Strings.dll
+D:\Домашка\ООП\Lab13\Lab13\11_Common_Strings\bin\Debug\net7.0\11_Common_Strings.pdb
+D:\Домашка\ООП\Lab13\Lab13\11_Common_Strings\obj\Debug\net7.0\11_Common_Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашка\ООП\Lab13\Lab13\11_Common_Strings\obj\Debug\net7.0\11_Common_Strings.AssemblyInfoInputs.cache
+D:\Домашка\ООП\Lab13\Lab13\11_Common_Strings\obj\Debug\net7.0\11_Common_Strings.AssemblyInfo.cs
+D:\Домашка\ООП\Lab13\Lab13\11_Common_Strings\obj\Debug\net7.0\11_Common_Strings.csproj.CoreCompileInputs.cache
+D:\Домашка\ООП\Lab13\Lab13\11_Common_Strings\obj\Debug\net7.0\11_Common_Strings.dll
+D:\Домашка\ООП\Lab13\Lab13\11_Common_Strings\obj\Debug\net7.0\refint\11_Common_Strings.dll
+D:\Домашка\ООП\Lab13\Lab13\11_Common_Strings\obj\Debug\net7.0\11_Common_Strings.pdb
+D:\Домашка\ООП\Lab13\Lab13\11_Common_Strings\obj\Debug\net7.0\11_Common_Strings.genruntimeconfig.cache
+D:\Домашка\ООП\Lab13\Lab13\11_Common_Strings\obj\Debug\net7.0\ref\11_Common_Strings.dll

@@ -1,0 +1,14 @@
+D:\Домашка\ООП\Lab13\Lab13\7_Change_to_Uppercase\bin\Debug\net7.0\7_Change_to_Uppercase.exe
+D:\Домашка\ООП\Lab13\Lab13\7_Change_to_Uppercase\bin\Debug\net7.0\7_Change_to_Uppercase.deps.json
+D:\Домашка\ООП\Lab13\Lab13\7_Change_to_Uppercase\bin\Debug\net7.0\7_Change_to_Uppercase.runtimeconfig.json
+D:\Домашка\ООП\Lab13\Lab13\7_Change_to_Uppercase\bin\Debug\net7.0\7_Change_to_Uppercase.dll
+D:\Домашка\ООП\Lab13\Lab13\7_Change_to_Uppercase\bin\Debug\net7.0\7_Change_to_Uppercase.pdb
+D:\Домашка\ООП\Lab13\Lab13\7_Change_to_Uppercase\obj\Debug\net7.0\7_Change_to_Uppercase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашка\ООП\Lab13\Lab13\7_Change_to_Uppercase\obj\Debug\net7.0\7_Change_to_Uppercase.AssemblyInfoInputs.cache
+D:\Домашка\ООП\Lab13\Lab13\7_Change_to_Uppercase\obj\Debug\net7.0\7_Change_to_Uppercase.AssemblyInfo.cs
+D:\Домашка\ООП\Lab13\Lab13\7_Change_to_Uppercase\obj\Debug\net7.0\7_Change_to_Uppercase.csproj.CoreCompileInputs.cache
+D:\Домашка\ООП\Lab13\Lab13\7_Change_to_Uppercase\obj\Debug\net7.0\7_Change_to_Uppercase.dll
+D:\Домашка\ООП\Lab13\Lab13\7_Change_to_Uppercase\obj\Debug\net7.0\refint\7_Change_to_Uppercase.dll
+D:\Домашка\ООП\Lab13\Lab13\7_Change_to_Uppercase\obj\Debug\net7.0\7_Change_to_Uppercase.pdb
+D:\Домашка\ООП\Lab13\Lab13\7_Change_to_Uppercase\obj\Debug\net7.0\7_Change_to_Uppercase.genruntimeconfig.cache
+D:\Домашка\ООП\Lab13\Lab13\7_Change_to_Uppercase\obj\Debug\net7.0\ref\7_Change_to_Uppercase.dll

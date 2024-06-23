@@ -1,0 +1,14 @@
+D:\Домашка\ООП\Lab14\Lab14\8_Weak_Students\bin\Debug\net7.0\8_Weak_Students.exe
+D:\Домашка\ООП\Lab14\Lab14\8_Weak_Students\bin\Debug\net7.0\8_Weak_Students.deps.json
+D:\Домашка\ООП\Lab14\Lab14\8_Weak_Students\bin\Debug\net7.0\8_Weak_Students.runtimeconfig.json
+D:\Домашка\ООП\Lab14\Lab14\8_Weak_Students\bin\Debug\net7.0\8_Weak_Students.dll
+D:\Домашка\ООП\Lab14\Lab14\8_Weak_Students\bin\Debug\net7.0\8_Weak_Students.pdb
+D:\Домашка\ООП\Lab14\Lab14\8_Weak_Students\obj\Debug\net7.0\8_Weak_Students.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашка\ООП\Lab14\Lab14\8_Weak_Students\obj\Debug\net7.0\8_Weak_Students.AssemblyInfoInputs.cache
+D:\Домашка\ООП\Lab14\Lab14\8_Weak_Students\obj\Debug\net7.0\8_Weak_Students.AssemblyInfo.cs
+D:\Домашка\ООП\Lab14\Lab14\8_Weak_Students\obj\Debug\net7.0\8_Weak_Students.csproj.CoreCompileInputs.cache
+D:\Домашка\ООП\Lab14\Lab14\8_Weak_Students\obj\Debug\net7.0\8_Weak_Students.dll
+D:\Домашка\ООП\Lab14\Lab14\8_Weak_Students\obj\Debug\net7.0\refint\8_Weak_Students.dll
+D:\Домашка\ООП\Lab14\Lab14\8_Weak_Students\obj\Debug\net7.0\8_Weak_Students.pdb
+D:\Домашка\ООП\Lab14\Lab14\8_Weak_Students\obj\Debug\net7.0\8_Weak_Students.genruntimeconfig.cache
+D:\Домашка\ООП\Lab14\Lab14\8_Weak_Students\obj\Debug\net7.0\ref\8_Weak_Students.dll

@@ -1,0 +1,14 @@
+D:\Домашка\ООП\Lab11\Lab11\3_Dependency_Inversion\bin\Debug\net7.0\3_Dependency_Inversion.exe
+D:\Домашка\ООП\Lab11\Lab11\3_Dependency_Inversion\bin\Debug\net7.0\3_Dependency_Inversion.deps.json
+D:\Домашка\ООП\Lab11\Lab11\3_Dependency_Inversion\bin\Debug\net7.0\3_Dependency_Inversion.runtimeconfig.json
+D:\Домашка\ООП\Lab11\Lab11\3_Dependency_Inversion\bin\Debug\net7.0\3_Dependency_Inversion.dll
+D:\Домашка\ООП\Lab11\Lab11\3_Dependency_Inversion\bin\Debug\net7.0\3_Dependency_Inversion.pdb
+D:\Домашка\ООП\Lab11\Lab11\3_Dependency_Inversion\obj\Debug\net7.0\3_Dependency_Inversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашка\ООП\Lab11\Lab11\3_Dependency_Inversion\obj\Debug\net7.0\3_Dependency_Inversion.AssemblyInfoInputs.cache
+D:\Домашка\ООП\Lab11\Lab11\3_Dependency_Inversion\obj\Debug\net7.0\3_Dependency_Inversion.AssemblyInfo.cs
+D:\Домашка\ООП\Lab11\Lab11\3_Dependency_Inversion\obj\Debug\net7.0\3_Dependency_Inversion.csproj.CoreCompileInputs.cache
+D:\Домашка\ООП\Lab11\Lab11\3_Dependency_Inversion\obj\Debug\net7.0\3_Dependency_Inversion.dll
+D:\Домашка\ООП\Lab11\Lab11\3_Dependency_Inversion\obj\Debug\net7.0\refint\3_Dependency_Inversion.dll
+D:\Домашка\ООП\Lab11\Lab11\3_Dependency_Inversion\obj\Debug\net7.0\3_Dependency_Inversion.pdb
+D:\Домашка\ООП\Lab11\Lab11\3_Dependency_Inversion\obj\Debug\net7.0\3_Dependency_Inversion.genruntimeconfig.cache
+D:\Домашка\ООП\Lab11\Lab11\3_Dependency_Inversion\obj\Debug\net7.0\ref\3_Dependency_Inversion.dll

@@ -1,0 +1,14 @@
+D:\Домашка\ООП\Lab13\Lab13\10_Palindrome_Index\bin\Debug\net7.0\10_Palindrome_Index.exe
+D:\Домашка\ООП\Lab13\Lab13\10_Palindrome_Index\bin\Debug\net7.0\10_Palindrome_Index.deps.json
+D:\Домашка\ООП\Lab13\Lab13\10_Palindrome_Index\bin\Debug\net7.0\10_Palindrome_Index.runtimeconfig.json
+D:\Домашка\ООП\Lab13\Lab13\10_Palindrome_Index\bin\Debug\net7.0\10_Palindrome_Index.dll
+D:\Домашка\ООП\Lab13\Lab13\10_Palindrome_Index\bin\Debug\net7.0\10_Palindrome_Index.pdb
+D:\Домашка\ООП\Lab13\Lab13\10_Palindrome_Index\obj\Debug\net7.0\10_Palindrome_Index.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашка\ООП\Lab13\Lab13\10_Palindrome_Index\obj\Debug\net7.0\10_Palindrome_Index.AssemblyInfoInputs.cache
+D:\Домашка\ООП\Lab13\Lab13\10_Palindrome_Index\obj\Debug\net7.0\10_Palindrome_Index.AssemblyInfo.cs
+D:\Домашка\ООП\Lab13\Lab13\10_Palindrome_Index\obj\Debug\net7.0\10_Palindrome_Index.csproj.CoreCompileInputs.cache
+D:\Домашка\ООП\Lab13\Lab13\10_Palindrome_Index\obj\Debug\net7.0\10_Palindrome_Index.dll
+D:\Домашка\ООП\Lab13\Lab13\10_Palindrome_Index\obj\Debug\net7.0\refint\10_Palindrome_Index.dll
+D:\Домашка\ООП\Lab13\Lab13\10_Palindrome_Index\obj\Debug\net7.0\10_Palindrome_Index.pdb
+D:\Домашка\ООП\Lab13\Lab13\10_Palindrome_Index\obj\Debug\net7.0\10_Palindrome_Index.genruntimeconfig.cache
+D:\Домашка\ООП\Lab13\Lab13\10_Palindrome_Index\obj\Debug\net7.0\ref\10_Palindrome_Index.dll

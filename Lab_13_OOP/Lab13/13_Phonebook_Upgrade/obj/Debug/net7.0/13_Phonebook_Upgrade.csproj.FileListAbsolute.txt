@@ -1,0 +1,14 @@
+D:\Домашка\ООП\Lab13\Lab13\13_Phonebook_Upgrade\bin\Debug\net7.0\13_Phonebook_Upgrade.exe
+D:\Домашка\ООП\Lab13\Lab13\13_Phonebook_Upgrade\bin\Debug\net7.0\13_Phonebook_Upgrade.deps.json
+D:\Домашка\ООП\Lab13\Lab13\13_Phonebook_Upgrade\bin\Debug\net7.0\13_Phonebook_Upgrade.runtimeconfig.json
+D:\Домашка\ООП\Lab13\Lab13\13_Phonebook_Upgrade\bin\Debug\net7.0\13_Phonebook_Upgrade.dll
+D:\Домашка\ООП\Lab13\Lab13\13_Phonebook_Upgrade\bin\Debug\net7.0\13_Phonebook_Upgrade.pdb
+D:\Домашка\ООП\Lab13\Lab13\13_Phonebook_Upgrade\obj\Debug\net7.0\13_Phonebook_Upgrade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашка\ООП\Lab13\Lab13\13_Phonebook_Upgrade\obj\Debug\net7.0\13_Phonebook_Upgrade.AssemblyInfoInputs.cache
+D:\Домашка\ООП\Lab13\Lab13\13_Phonebook_Upgrade\obj\Debug\net7.0\13_Phonebook_Upgrade.AssemblyInfo.cs
+D:\Домашка\ООП\Lab13\Lab13\13_Phonebook_Upgrade\obj\Debug\net7.0\13_Phonebook_Upgrade.csproj.CoreCompileInputs.cache
+D:\Домашка\ООП\Lab13\Lab13\13_Phonebook_Upgrade\obj\Debug\net7.0\13_Phonebook_Upgrade.dll
+D:\Домашка\ООП\Lab13\Lab13\13_Phonebook_Upgrade\obj\Debug\net7.0\refint\13_Phonebook_Upgrade.dll
+D:\Домашка\ООП\Lab13\Lab13\13_Phonebook_Upgrade\obj\Debug\net7.0\13_Phonebook_Upgrade.pdb
+D:\Домашка\ООП\Lab13\Lab13\13_Phonebook_Upgrade\obj\Debug\net7.0\13_Phonebook_Upgrade.genruntimeconfig.cache
+D:\Домашка\ООП\Lab13\Lab13\13_Phonebook_Upgrade\obj\Debug\net7.0\ref\13_Phonebook_Upgrade.dll

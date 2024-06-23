@@ -1,0 +1,14 @@
+D:\Домашка\ООП\Lab14\Lab14\4_Sort_Students\bin\Debug\net7.0\4_Sort_Students.exe
+D:\Домашка\ООП\Lab14\Lab14\4_Sort_Students\bin\Debug\net7.0\4_Sort_Students.deps.json
+D:\Домашка\ООП\Lab14\Lab14\4_Sort_Students\bin\Debug\net7.0\4_Sort_Students.runtimeconfig.json
+D:\Домашка\ООП\Lab14\Lab14\4_Sort_Students\bin\Debug\net7.0\4_Sort_Students.dll
+D:\Домашка\ООП\Lab14\Lab14\4_Sort_Students\bin\Debug\net7.0\4_Sort_Students.pdb
+D:\Домашка\ООП\Lab14\Lab14\4_Sort_Students\obj\Debug\net7.0\4_Sort_Students.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашка\ООП\Lab14\Lab14\4_Sort_Students\obj\Debug\net7.0\4_Sort_Students.AssemblyInfoInputs.cache
+D:\Домашка\ООП\Lab14\Lab14\4_Sort_Students\obj\Debug\net7.0\4_Sort_Students.AssemblyInfo.cs
+D:\Домашка\ООП\Lab14\Lab14\4_Sort_Students\obj\Debug\net7.0\4_Sort_Students.csproj.CoreCompileInputs.cache
+D:\Домашка\ООП\Lab14\Lab14\4_Sort_Students\obj\Debug\net7.0\4_Sort_Students.dll
+D:\Домашка\ООП\Lab14\Lab14\4_Sort_Students\obj\Debug\net7.0\refint\4_Sort_Students.dll
+D:\Домашка\ООП\Lab14\Lab14\4_Sort_Students\obj\Debug\net7.0\4_Sort_Students.pdb
+D:\Домашка\ООП\Lab14\Lab14\4_Sort_Students\obj\Debug\net7.0\4_Sort_Students.genruntimeconfig.cache
+D:\Домашка\ООП\Lab14\Lab14\4_Sort_Students\obj\Debug\net7.0\ref\4_Sort_Students.dll

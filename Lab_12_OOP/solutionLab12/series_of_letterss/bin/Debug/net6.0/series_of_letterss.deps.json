@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "series_of_letterss/1.0.0": {
+        "runtime": {
+          "series_of_letterss.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "series_of_letterss/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

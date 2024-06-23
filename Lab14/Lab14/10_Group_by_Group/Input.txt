@@ -1,0 +1,5 @@
+Ivaylo Petrov 10
+Stanimir Svilianov 3
+Indje Kromidov 3
+Irina Balabanova 4
+END

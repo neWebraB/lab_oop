@@ -1,0 +1,14 @@
+D:\Lab6 ООП\Lab6.3\bin\Debug\net6.0\Lab6.3.exe
+D:\Lab6 ООП\Lab6.3\bin\Debug\net6.0\Lab6.3.deps.json
+D:\Lab6 ООП\Lab6.3\bin\Debug\net6.0\Lab6.3.runtimeconfig.json
+D:\Lab6 ООП\Lab6.3\bin\Debug\net6.0\Lab6.3.dll
+D:\Lab6 ООП\Lab6.3\bin\Debug\net6.0\Lab6.3.pdb
+D:\Lab6 ООП\Lab6.3\obj\Debug\net6.0\Lab6.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab6 ООП\Lab6.3\obj\Debug\net6.0\Lab6.3.AssemblyInfoInputs.cache
+D:\Lab6 ООП\Lab6.3\obj\Debug\net6.0\Lab6.3.AssemblyInfo.cs
+D:\Lab6 ООП\Lab6.3\obj\Debug\net6.0\Lab6.3.csproj.CoreCompileInputs.cache
+D:\Lab6 ООП\Lab6.3\obj\Debug\net6.0\Lab6.3.dll
+D:\Lab6 ООП\Lab6.3\obj\Debug\net6.0\refint\Lab6.3.dll
+D:\Lab6 ООП\Lab6.3\obj\Debug\net6.0\Lab6.3.pdb
+D:\Lab6 ООП\Lab6.3\obj\Debug\net6.0\Lab6.3.genruntimeconfig.cache
+D:\Lab6 ООП\Lab6.3\obj\Debug\net6.0\ref\Lab6.3.dll

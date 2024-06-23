@@ -1,0 +1,14 @@
+D:\Lab_OOP\Lab_10_OOP\Lab 10.4\bin\Debug\net6.0\Lab 10.4.exe
+D:\Lab_OOP\Lab_10_OOP\Lab 10.4\bin\Debug\net6.0\Lab 10.4.deps.json
+D:\Lab_OOP\Lab_10_OOP\Lab 10.4\bin\Debug\net6.0\Lab 10.4.runtimeconfig.json
+D:\Lab_OOP\Lab_10_OOP\Lab 10.4\bin\Debug\net6.0\Lab 10.4.dll
+D:\Lab_OOP\Lab_10_OOP\Lab 10.4\bin\Debug\net6.0\Lab 10.4.pdb
+D:\Lab_OOP\Lab_10_OOP\Lab 10.4\obj\Debug\net6.0\Lab 10.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab_OOP\Lab_10_OOP\Lab 10.4\obj\Debug\net6.0\Lab 10.4.AssemblyInfoInputs.cache
+D:\Lab_OOP\Lab_10_OOP\Lab 10.4\obj\Debug\net6.0\Lab 10.4.AssemblyInfo.cs
+D:\Lab_OOP\Lab_10_OOP\Lab 10.4\obj\Debug\net6.0\Lab 10.4.csproj.CoreCompileInputs.cache
+D:\Lab_OOP\Lab_10_OOP\Lab 10.4\obj\Debug\net6.0\Lab 10.4.dll
+D:\Lab_OOP\Lab_10_OOP\Lab 10.4\obj\Debug\net6.0\refint\Lab 10.4.dll
+D:\Lab_OOP\Lab_10_OOP\Lab 10.4\obj\Debug\net6.0\Lab 10.4.pdb
+D:\Lab_OOP\Lab_10_OOP\Lab 10.4\obj\Debug\net6.0\Lab 10.4.genruntimeconfig.cache
+D:\Lab_OOP\Lab_10_OOP\Lab 10.4\obj\Debug\net6.0\ref\Lab 10.4.dll

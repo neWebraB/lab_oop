@@ -1,0 +1,14 @@
+D:\Домашка\ООП\Lab14\Lab14\9_Students_Enrolled_in_2014_or_2015\bin\Debug\net7.0\9_Students_Enrolled_in_2014_or_2015.exe
+D:\Домашка\ООП\Lab14\Lab14\9_Students_Enrolled_in_2014_or_2015\bin\Debug\net7.0\9_Students_Enrolled_in_2014_or_2015.deps.json
+D:\Домашка\ООП\Lab14\Lab14\9_Students_Enrolled_in_2014_or_2015\bin\Debug\net7.0\9_Students_Enrolled_in_2014_or_2015.runtimeconfig.json
+D:\Домашка\ООП\Lab14\Lab14\9_Students_Enrolled_in_2014_or_2015\bin\Debug\net7.0\9_Students_Enrolled_in_2014_or_2015.dll
+D:\Домашка\ООП\Lab14\Lab14\9_Students_Enrolled_in_2014_or_2015\bin\Debug\net7.0\9_Students_Enrolled_in_2014_or_2015.pdb
+D:\Домашка\ООП\Lab14\Lab14\9_Students_Enrolled_in_2014_or_2015\obj\Debug\net7.0\9_Students_Enrolled_in_2014_or_2015.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашка\ООП\Lab14\Lab14\9_Students_Enrolled_in_2014_or_2015\obj\Debug\net7.0\9_Students_Enrolled_in_2014_or_2015.AssemblyInfoInputs.cache
+D:\Домашка\ООП\Lab14\Lab14\9_Students_Enrolled_in_2014_or_2015\obj\Debug\net7.0\9_Students_Enrolled_in_2014_or_2015.AssemblyInfo.cs
+D:\Домашка\ООП\Lab14\Lab14\9_Students_Enrolled_in_2014_or_2015\obj\Debug\net7.0\9_Students_Enrolled_in_2014_or_2015.csproj.CoreCompileInputs.cache
+D:\Домашка\ООП\Lab14\Lab14\9_Students_Enrolled_in_2014_or_2015\obj\Debug\net7.0\9_Students_Enrolled_in_2014_or_2015.dll
+D:\Домашка\ООП\Lab14\Lab14\9_Students_Enrolled_in_2014_or_2015\obj\Debug\net7.0\refint\9_Students_Enrolled_in_2014_or_2015.dll
+D:\Домашка\ООП\Lab14\Lab14\9_Students_Enrolled_in_2014_or_2015\obj\Debug\net7.0\9_Students_Enrolled_in_2014_or_2015.pdb
+D:\Домашка\ООП\Lab14\Lab14\9_Students_Enrolled_in_2014_or_2015\obj\Debug\net7.0\9_Students_Enrolled_in_2014_or_2015.genruntimeconfig.cache
+D:\Домашка\ООП\Lab14\Lab14\9_Students_Enrolled_in_2014_or_2015\obj\Debug\net7.0\ref\9_Students_Enrolled_in_2014_or_2015.dll

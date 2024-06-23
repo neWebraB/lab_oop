@@ -1,0 +1,14 @@
+D:\Домашка\ООП\Lab13\Lab13\9_Capitalization\bin\Debug\net7.0\9_Capitalization.exe
+D:\Домашка\ООП\Lab13\Lab13\9_Capitalization\bin\Debug\net7.0\9_Capitalization.deps.json
+D:\Домашка\ООП\Lab13\Lab13\9_Capitalization\bin\Debug\net7.0\9_Capitalization.runtimeconfig.json
+D:\Домашка\ООП\Lab13\Lab13\9_Capitalization\bin\Debug\net7.0\9_Capitalization.dll
+D:\Домашка\ООП\Lab13\Lab13\9_Capitalization\bin\Debug\net7.0\9_Capitalization.pdb
+D:\Домашка\ООП\Lab13\Lab13\9_Capitalization\obj\Debug\net7.0\9_Capitalization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашка\ООП\Lab13\Lab13\9_Capitalization\obj\Debug\net7.0\9_Capitalization.AssemblyInfoInputs.cache
+D:\Домашка\ООП\Lab13\Lab13\9_Capitalization\obj\Debug\net7.0\9_Capitalization.AssemblyInfo.cs
+D:\Домашка\ООП\Lab13\Lab13\9_Capitalization\obj\Debug\net7.0\9_Capitalization.csproj.CoreCompileInputs.cache
+D:\Домашка\ООП\Lab13\Lab13\9_Capitalization\obj\Debug\net7.0\9_Capitalization.dll
+D:\Домашка\ООП\Lab13\Lab13\9_Capitalization\obj\Debug\net7.0\refint\9_Capitalization.dll
+D:\Домашка\ООП\Lab13\Lab13\9_Capitalization\obj\Debug\net7.0\9_Capitalization.pdb
+D:\Домашка\ООП\Lab13\Lab13\9_Capitalization\obj\Debug\net7.0\9_Capitalization.genruntimeconfig.cache
+D:\Домашка\ООП\Lab13\Lab13\9_Capitalization\obj\Debug\net7.0\ref\9_Capitalization.dll

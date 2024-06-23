@@ -1,0 +1,14 @@
+D:\Домашка\ООП\Lab13\Lab13\2_Fit_String_in_20_Chars\bin\Debug\net7.0\2_Fit_String_in_20_Chars.exe
+D:\Домашка\ООП\Lab13\Lab13\2_Fit_String_in_20_Chars\bin\Debug\net7.0\2_Fit_String_in_20_Chars.deps.json
+D:\Домашка\ООП\Lab13\Lab13\2_Fit_String_in_20_Chars\bin\Debug\net7.0\2_Fit_String_in_20_Chars.runtimeconfig.json
+D:\Домашка\ООП\Lab13\Lab13\2_Fit_String_in_20_Chars\bin\Debug\net7.0\2_Fit_String_in_20_Chars.dll
+D:\Домашка\ООП\Lab13\Lab13\2_Fit_String_in_20_Chars\bin\Debug\net7.0\2_Fit_String_in_20_Chars.pdb
+D:\Домашка\ООП\Lab13\Lab13\2_Fit_String_in_20_Chars\obj\Debug\net7.0\2_Fit_String_in_20_Chars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашка\ООП\Lab13\Lab13\2_Fit_String_in_20_Chars\obj\Debug\net7.0\2_Fit_String_in_20_Chars.AssemblyInfoInputs.cache
+D:\Домашка\ООП\Lab13\Lab13\2_Fit_String_in_20_Chars\obj\Debug\net7.0\2_Fit_String_in_20_Chars.AssemblyInfo.cs
+D:\Домашка\ООП\Lab13\Lab13\2_Fit_String_in_20_Chars\obj\Debug\net7.0\2_Fit_String_in_20_Chars.csproj.CoreCompileInputs.cache
+D:\Домашка\ООП\Lab13\Lab13\2_Fit_String_in_20_Chars\obj\Debug\net7.0\2_Fit_String_in_20_Chars.dll
+D:\Домашка\ООП\Lab13\Lab13\2_Fit_String_in_20_Chars\obj\Debug\net7.0\refint\2_Fit_String_in_20_Chars.dll
+D:\Домашка\ООП\Lab13\Lab13\2_Fit_String_in_20_Chars\obj\Debug\net7.0\2_Fit_String_in_20_Chars.pdb
+D:\Домашка\ООП\Lab13\Lab13\2_Fit_String_in_20_Chars\obj\Debug\net7.0\2_Fit_String_in_20_Chars.genruntimeconfig.cache
+D:\Домашка\ООП\Lab13\Lab13\2_Fit_String_in_20_Chars\obj\Debug\net7.0\ref\2_Fit_String_in_20_Chars.dll

@@ -1,0 +1,15 @@
+7
+|SoftUni - 600 - paper|
+|Vivacom - 600 - pen|
+|XS - 20 - chair|
+|Vivacom - 200 - chair|
+|SoftUni - 40 - chair|
+|XS - 40 - chair|
+|SoftUni - 1 - printer|
+
+5
+|SoftUni - 200 - desk|
+|SoftUni - 40 - PC|
+|SoftUni - 200 - desk|
+|SoftUni - 600 - paper|
+|SoftUni - 600 - textbook|

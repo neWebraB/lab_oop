@@ -1,0 +1,8 @@
+D:\Lab6 ООП\Lab6.2\obj\Debug\net6.0\Lab6.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab6 ООП\Lab6.2\obj\Debug\net6.0\Lab6.2.AssemblyInfoInputs.cache
+D:\Lab6 ООП\Lab6.2\obj\Debug\net6.0\Lab6.2.AssemblyInfo.cs
+D:\Lab6 ООП\Lab6.2\obj\Debug\net6.0\Lab6.2.csproj.CoreCompileInputs.cache
+D:\Lab_OOP\Lab_6_OOP\Lab6.2\obj\Debug\net6.0\Lab6.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab_OOP\Lab_6_OOP\Lab6.2\obj\Debug\net6.0\Lab6.2.AssemblyInfoInputs.cache
+D:\Lab_OOP\Lab_6_OOP\Lab6.2\obj\Debug\net6.0\Lab6.2.AssemblyInfo.cs
+D:\Lab_OOP\Lab_6_OOP\Lab6.2\obj\Debug\net6.0\Lab6.2.csproj.CoreCompileInputs.cache

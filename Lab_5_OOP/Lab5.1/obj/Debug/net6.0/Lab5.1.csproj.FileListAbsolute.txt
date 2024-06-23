@@ -1,0 +1,28 @@
+D:\lab2.1\Lab5.1\bin\Debug\net6.0\Lab5.1.exe
+D:\lab2.1\Lab5.1\bin\Debug\net6.0\Lab5.1.deps.json
+D:\lab2.1\Lab5.1\bin\Debug\net6.0\Lab5.1.runtimeconfig.json
+D:\lab2.1\Lab5.1\bin\Debug\net6.0\Lab5.1.dll
+D:\lab2.1\Lab5.1\bin\Debug\net6.0\Lab5.1.pdb
+D:\lab2.1\Lab5.1\obj\Debug\net6.0\Lab5.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab2.1\Lab5.1\obj\Debug\net6.0\Lab5.1.AssemblyInfoInputs.cache
+D:\lab2.1\Lab5.1\obj\Debug\net6.0\Lab5.1.AssemblyInfo.cs
+D:\lab2.1\Lab5.1\obj\Debug\net6.0\Lab5.1.csproj.CoreCompileInputs.cache
+D:\lab2.1\Lab5.1\obj\Debug\net6.0\Lab5.1.dll
+D:\lab2.1\Lab5.1\obj\Debug\net6.0\refint\Lab5.1.dll
+D:\lab2.1\Lab5.1\obj\Debug\net6.0\Lab5.1.pdb
+D:\lab2.1\Lab5.1\obj\Debug\net6.0\Lab5.1.genruntimeconfig.cache
+D:\lab2.1\Lab5.1\obj\Debug\net6.0\ref\Lab5.1.dll
+D:\Lab5 ООП\Lab5.1\bin\Debug\net6.0\Lab5.1.exe
+D:\Lab5 ООП\Lab5.1\bin\Debug\net6.0\Lab5.1.deps.json
+D:\Lab5 ООП\Lab5.1\bin\Debug\net6.0\Lab5.1.runtimeconfig.json
+D:\Lab5 ООП\Lab5.1\bin\Debug\net6.0\Lab5.1.dll
+D:\Lab5 ООП\Lab5.1\bin\Debug\net6.0\Lab5.1.pdb
+D:\Lab5 ООП\Lab5.1\obj\Debug\net6.0\Lab5.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab5 ООП\Lab5.1\obj\Debug\net6.0\Lab5.1.AssemblyInfoInputs.cache
+D:\Lab5 ООП\Lab5.1\obj\Debug\net6.0\Lab5.1.AssemblyInfo.cs
+D:\Lab5 ООП\Lab5.1\obj\Debug\net6.0\Lab5.1.csproj.CoreCompileInputs.cache
+D:\Lab5 ООП\Lab5.1\obj\Debug\net6.0\Lab5.1.dll
+D:\Lab5 ООП\Lab5.1\obj\Debug\net6.0\refint\Lab5.1.dll
+D:\Lab5 ООП\Lab5.1\obj\Debug\net6.0\Lab5.1.pdb
+D:\Lab5 ООП\Lab5.1\obj\Debug\net6.0\Lab5.1.genruntimeconfig.cache
+D:\Lab5 ООП\Lab5.1\obj\Debug\net6.0\ref\Lab5.1.dll

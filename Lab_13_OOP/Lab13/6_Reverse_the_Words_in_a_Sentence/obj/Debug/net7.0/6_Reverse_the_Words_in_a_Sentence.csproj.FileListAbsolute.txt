@@ -1,0 +1,14 @@
+D:\Домашка\ООП\Lab13\Lab13\6_Reverse_the_Words_in_a_Sentence\bin\Debug\net7.0\6_Reverse_the_Words_in_a_Sentence.exe
+D:\Домашка\ООП\Lab13\Lab13\6_Reverse_the_Words_in_a_Sentence\bin\Debug\net7.0\6_Reverse_the_Words_in_a_Sentence.deps.json
+D:\Домашка\ООП\Lab13\Lab13\6_Reverse_the_Words_in_a_Sentence\bin\Debug\net7.0\6_Reverse_the_Words_in_a_Sentence.runtimeconfig.json
+D:\Домашка\ООП\Lab13\Lab13\6_Reverse_the_Words_in_a_Sentence\bin\Debug\net7.0\6_Reverse_the_Words_in_a_Sentence.dll
+D:\Домашка\ООП\Lab13\Lab13\6_Reverse_the_Words_in_a_Sentence\bin\Debug\net7.0\6_Reverse_the_Words_in_a_Sentence.pdb
+D:\Домашка\ООП\Lab13\Lab13\6_Reverse_the_Words_in_a_Sentence\obj\Debug\net7.0\6_Reverse_the_Words_in_a_Sentence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашка\ООП\Lab13\Lab13\6_Reverse_the_Words_in_a_Sentence\obj\Debug\net7.0\6_Reverse_the_Words_in_a_Sentence.AssemblyInfoInputs.cache
+D:\Домашка\ООП\Lab13\Lab13\6_Reverse_the_Words_in_a_Sentence\obj\Debug\net7.0\6_Reverse_the_Words_in_a_Sentence.AssemblyInfo.cs
+D:\Домашка\ООП\Lab13\Lab13\6_Reverse_the_Words_in_a_Sentence\obj\Debug\net7.0\6_Reverse_the_Words_in_a_Sentence.csproj.CoreCompileInputs.cache
+D:\Домашка\ООП\Lab13\Lab13\6_Reverse_the_Words_in_a_Sentence\obj\Debug\net7.0\6_Reverse_the_Words_in_a_Sentence.dll
+D:\Домашка\ООП\Lab13\Lab13\6_Reverse_the_Words_in_a_Sentence\obj\Debug\net7.0\refint\6_Reverse_the_Words_in_a_Sentence.dll
+D:\Домашка\ООП\Lab13\Lab13\6_Reverse_the_Words_in_a_Sentence\obj\Debug\net7.0\6_Reverse_the_Words_in_a_Sentence.pdb
+D:\Домашка\ООП\Lab13\Lab13\6_Reverse_the_Words_in_a_Sentence\obj\Debug\net7.0\6_Reverse_the_Words_in_a_Sentence.genruntimeconfig.cache
+D:\Домашка\ООП\Lab13\Lab13\6_Reverse_the_Words_in_a_Sentence\obj\Debug\net7.0\ref\6_Reverse_the_Words_in_a_Sentence.dll

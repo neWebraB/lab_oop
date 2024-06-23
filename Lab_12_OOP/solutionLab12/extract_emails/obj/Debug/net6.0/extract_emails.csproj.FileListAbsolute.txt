@@ -1,0 +1,14 @@
+C:\Users\tarro\source\repos\solutionLab12\extract_emails\bin\Debug\net6.0\extract_emails.exe
+C:\Users\tarro\source\repos\solutionLab12\extract_emails\bin\Debug\net6.0\extract_emails.deps.json
+C:\Users\tarro\source\repos\solutionLab12\extract_emails\bin\Debug\net6.0\extract_emails.runtimeconfig.json
+C:\Users\tarro\source\repos\solutionLab12\extract_emails\bin\Debug\net6.0\extract_emails.dll
+C:\Users\tarro\source\repos\solutionLab12\extract_emails\bin\Debug\net6.0\extract_emails.pdb
+C:\Users\tarro\source\repos\solutionLab12\extract_emails\obj\Debug\net6.0\extract_emails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarro\source\repos\solutionLab12\extract_emails\obj\Debug\net6.0\extract_emails.AssemblyInfoInputs.cache
+C:\Users\tarro\source\repos\solutionLab12\extract_emails\obj\Debug\net6.0\extract_emails.AssemblyInfo.cs
+C:\Users\tarro\source\repos\solutionLab12\extract_emails\obj\Debug\net6.0\extract_emails.csproj.CoreCompileInputs.cache
+C:\Users\tarro\source\repos\solutionLab12\extract_emails\obj\Debug\net6.0\extract_emails.dll
+C:\Users\tarro\source\repos\solutionLab12\extract_emails\obj\Debug\net6.0\refint\extract_emails.dll
+C:\Users\tarro\source\repos\solutionLab12\extract_emails\obj\Debug\net6.0\extract_emails.pdb
+C:\Users\tarro\source\repos\solutionLab12\extract_emails\obj\Debug\net6.0\extract_emails.genruntimeconfig.cache
+C:\Users\tarro\source\repos\solutionLab12\extract_emails\obj\Debug\net6.0\ref\extract_emails.dll

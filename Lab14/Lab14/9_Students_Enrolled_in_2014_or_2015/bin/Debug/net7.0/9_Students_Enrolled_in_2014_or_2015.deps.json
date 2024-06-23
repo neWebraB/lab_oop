@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "9_Students_Enrolled_in_2014_or_2015/1.0.0": {
+        "runtime": {
+          "9_Students_Enrolled_in_2014_or_2015.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "9_Students_Enrolled_in_2014_or_2015/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

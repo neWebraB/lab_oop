@@ -1,0 +1,14 @@
+D:\Lab_OOP\Lab_9_OOP\Lab 9.8\bin\Debug\net6.0\Lab 9.8.exe
+D:\Lab_OOP\Lab_9_OOP\Lab 9.8\bin\Debug\net6.0\Lab 9.8.deps.json
+D:\Lab_OOP\Lab_9_OOP\Lab 9.8\bin\Debug\net6.0\Lab 9.8.runtimeconfig.json
+D:\Lab_OOP\Lab_9_OOP\Lab 9.8\bin\Debug\net6.0\Lab 9.8.dll
+D:\Lab_OOP\Lab_9_OOP\Lab 9.8\bin\Debug\net6.0\Lab 9.8.pdb
+D:\Lab_OOP\Lab_9_OOP\Lab 9.8\obj\Debug\net6.0\Lab 9.8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab_OOP\Lab_9_OOP\Lab 9.8\obj\Debug\net6.0\Lab 9.8.AssemblyInfoInputs.cache
+D:\Lab_OOP\Lab_9_OOP\Lab 9.8\obj\Debug\net6.0\Lab 9.8.AssemblyInfo.cs
+D:\Lab_OOP\Lab_9_OOP\Lab 9.8\obj\Debug\net6.0\Lab 9.8.csproj.CoreCompileInputs.cache
+D:\Lab_OOP\Lab_9_OOP\Lab 9.8\obj\Debug\net6.0\Lab 9.8.dll
+D:\Lab_OOP\Lab_9_OOP\Lab 9.8\obj\Debug\net6.0\refint\Lab 9.8.dll
+D:\Lab_OOP\Lab_9_OOP\Lab 9.8\obj\Debug\net6.0\Lab 9.8.pdb
+D:\Lab_OOP\Lab_9_OOP\Lab 9.8\obj\Debug\net6.0\Lab 9.8.genruntimeconfig.cache
+D:\Lab_OOP\Lab_9_OOP\Lab 9.8\obj\Debug\net6.0\ref\Lab 9.8.dll

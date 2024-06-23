@@ -1,0 +1,14 @@
+C:\Users\tarro\source\repos\solutionLab12\sentence_extractor\bin\Debug\net6.0\sentence_extractor.exe
+C:\Users\tarro\source\repos\solutionLab12\sentence_extractor\bin\Debug\net6.0\sentence_extractor.deps.json
+C:\Users\tarro\source\repos\solutionLab12\sentence_extractor\bin\Debug\net6.0\sentence_extractor.runtimeconfig.json
+C:\Users\tarro\source\repos\solutionLab12\sentence_extractor\bin\Debug\net6.0\sentence_extractor.dll
+C:\Users\tarro\source\repos\solutionLab12\sentence_extractor\bin\Debug\net6.0\sentence_extractor.pdb
+C:\Users\tarro\source\repos\solutionLab12\sentence_extractor\obj\Debug\net6.0\sentence_extractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarro\source\repos\solutionLab12\sentence_extractor\obj\Debug\net6.0\sentence_extractor.AssemblyInfoInputs.cache
+C:\Users\tarro\source\repos\solutionLab12\sentence_extractor\obj\Debug\net6.0\sentence_extractor.AssemblyInfo.cs
+C:\Users\tarro\source\repos\solutionLab12\sentence_extractor\obj\Debug\net6.0\sentence_extractor.csproj.CoreCompileInputs.cache
+C:\Users\tarro\source\repos\solutionLab12\sentence_extractor\obj\Debug\net6.0\sentence_extractor.dll
+C:\Users\tarro\source\repos\solutionLab12\sentence_extractor\obj\Debug\net6.0\refint\sentence_extractor.dll
+C:\Users\tarro\source\repos\solutionLab12\sentence_extractor\obj\Debug\net6.0\sentence_extractor.pdb
+C:\Users\tarro\source\repos\solutionLab12\sentence_extractor\obj\Debug\net6.0\sentence_extractor.genruntimeconfig.cache
+C:\Users\tarro\source\repos\solutionLab12\sentence_extractor\obj\Debug\net6.0\ref\sentence_extractor.dll

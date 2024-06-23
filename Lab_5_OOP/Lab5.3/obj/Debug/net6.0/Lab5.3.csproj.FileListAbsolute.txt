@@ -1,0 +1,14 @@
+D:\Lab5 ООП\Lab5.3\obj\Debug\net6.0\Lab5.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab5 ООП\Lab5.3\obj\Debug\net6.0\Lab5.3.AssemblyInfoInputs.cache
+D:\Lab5 ООП\Lab5.3\obj\Debug\net6.0\Lab5.3.AssemblyInfo.cs
+D:\Lab5 ООП\Lab5.3\obj\Debug\net6.0\Lab5.3.csproj.CoreCompileInputs.cache
+D:\Lab5 ООП\Lab5.3\bin\Debug\net6.0\Lab5.3.exe
+D:\Lab5 ООП\Lab5.3\bin\Debug\net6.0\Lab5.3.deps.json
+D:\Lab5 ООП\Lab5.3\bin\Debug\net6.0\Lab5.3.runtimeconfig.json
+D:\Lab5 ООП\Lab5.3\bin\Debug\net6.0\Lab5.3.dll
+D:\Lab5 ООП\Lab5.3\bin\Debug\net6.0\Lab5.3.pdb
+D:\Lab5 ООП\Lab5.3\obj\Debug\net6.0\Lab5.3.dll
+D:\Lab5 ООП\Lab5.3\obj\Debug\net6.0\refint\Lab5.3.dll
+D:\Lab5 ООП\Lab5.3\obj\Debug\net6.0\Lab5.3.pdb
+D:\Lab5 ООП\Lab5.3\obj\Debug\net6.0\Lab5.3.genruntimeconfig.cache
+D:\Lab5 ООП\Lab5.3\obj\Debug\net6.0\ref\Lab5.3.dll

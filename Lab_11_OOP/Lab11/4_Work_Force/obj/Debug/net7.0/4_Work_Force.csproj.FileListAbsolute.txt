@@ -1,0 +1,14 @@
+D:\Домашка\ООП\Lab11\Lab11\4_Work_Force\bin\Debug\net7.0\4_Work_Force.exe
+D:\Домашка\ООП\Lab11\Lab11\4_Work_Force\bin\Debug\net7.0\4_Work_Force.deps.json
+D:\Домашка\ООП\Lab11\Lab11\4_Work_Force\bin\Debug\net7.0\4_Work_Force.runtimeconfig.json
+D:\Домашка\ООП\Lab11\Lab11\4_Work_Force\bin\Debug\net7.0\4_Work_Force.dll
+D:\Домашка\ООП\Lab11\Lab11\4_Work_Force\bin\Debug\net7.0\4_Work_Force.pdb
+D:\Домашка\ООП\Lab11\Lab11\4_Work_Force\obj\Debug\net7.0\4_Work_Force.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашка\ООП\Lab11\Lab11\4_Work_Force\obj\Debug\net7.0\4_Work_Force.AssemblyInfoInputs.cache
+D:\Домашка\ООП\Lab11\Lab11\4_Work_Force\obj\Debug\net7.0\4_Work_Force.AssemblyInfo.cs
+D:\Домашка\ООП\Lab11\Lab11\4_Work_Force\obj\Debug\net7.0\4_Work_Force.csproj.CoreCompileInputs.cache
+D:\Домашка\ООП\Lab11\Lab11\4_Work_Force\obj\Debug\net7.0\4_Work_Force.dll
+D:\Домашка\ООП\Lab11\Lab11\4_Work_Force\obj\Debug\net7.0\refint\4_Work_Force.dll
+D:\Домашка\ООП\Lab11\Lab11\4_Work_Force\obj\Debug\net7.0\4_Work_Force.pdb
+D:\Домашка\ООП\Lab11\Lab11\4_Work_Force\obj\Debug\net7.0\4_Work_Force.genruntimeconfig.cache
+D:\Домашка\ООП\Lab11\Lab11\4_Work_Force\obj\Debug\net7.0\ref\4_Work_Force.dll

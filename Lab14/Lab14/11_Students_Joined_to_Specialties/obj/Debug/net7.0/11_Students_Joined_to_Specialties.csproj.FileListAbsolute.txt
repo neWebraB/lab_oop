@@ -1,0 +1,14 @@
+D:\Домашка\ООП\Lab14\Lab14\11_Students_Joined_to_Specialties\bin\Debug\net7.0\11_Students_Joined_to_Specialties.exe
+D:\Домашка\ООП\Lab14\Lab14\11_Students_Joined_to_Specialties\bin\Debug\net7.0\11_Students_Joined_to_Specialties.deps.json
+D:\Домашка\ООП\Lab14\Lab14\11_Students_Joined_to_Specialties\bin\Debug\net7.0\11_Students_Joined_to_Specialties.runtimeconfig.json
+D:\Домашка\ООП\Lab14\Lab14\11_Students_Joined_to_Specialties\bin\Debug\net7.0\11_Students_Joined_to_Specialties.dll
+D:\Домашка\ООП\Lab14\Lab14\11_Students_Joined_to_Specialties\bin\Debug\net7.0\11_Students_Joined_to_Specialties.pdb
+D:\Домашка\ООП\Lab14\Lab14\11_Students_Joined_to_Specialties\obj\Debug\net7.0\11_Students_Joined_to_Specialties.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашка\ООП\Lab14\Lab14\11_Students_Joined_to_Specialties\obj\Debug\net7.0\11_Students_Joined_to_Specialties.AssemblyInfoInputs.cache
+D:\Домашка\ООП\Lab14\Lab14\11_Students_Joined_to_Specialties\obj\Debug\net7.0\11_Students_Joined_to_Specialties.AssemblyInfo.cs
+D:\Домашка\ООП\Lab14\Lab14\11_Students_Joined_to_Specialties\obj\Debug\net7.0\11_Students_Joined_to_Specialties.csproj.CoreCompileInputs.cache
+D:\Домашка\ООП\Lab14\Lab14\11_Students_Joined_to_Specialties\obj\Debug\net7.0\11_Students_Joined_to_Specialties.dll
+D:\Домашка\ООП\Lab14\Lab14\11_Students_Joined_to_Specialties\obj\Debug\net7.0\refint\11_Students_Joined_to_Specialties.dll
+D:\Домашка\ООП\Lab14\Lab14\11_Students_Joined_to_Specialties\obj\Debug\net7.0\11_Students_Joined_to_Specialties.pdb
+D:\Домашка\ООП\Lab14\Lab14\11_Students_Joined_to_Specialties\obj\Debug\net7.0\11_Students_Joined_to_Specialties.genruntimeconfig.cache
+D:\Домашка\ООП\Lab14\Lab14\11_Students_Joined_to_Specialties\obj\Debug\net7.0\ref\11_Students_Joined_to_Specialties.dll

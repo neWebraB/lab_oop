@@ -1,0 +1,14 @@
+C:\Users\tarro\source\repos\solutionLab12\replace_a_tag\bin\Debug\net6.0\replace_a_tag.exe
+C:\Users\tarro\source\repos\solutionLab12\replace_a_tag\bin\Debug\net6.0\replace_a_tag.deps.json
+C:\Users\tarro\source\repos\solutionLab12\replace_a_tag\bin\Debug\net6.0\replace_a_tag.runtimeconfig.json
+C:\Users\tarro\source\repos\solutionLab12\replace_a_tag\bin\Debug\net6.0\replace_a_tag.dll
+C:\Users\tarro\source\repos\solutionLab12\replace_a_tag\bin\Debug\net6.0\replace_a_tag.pdb
+C:\Users\tarro\source\repos\solutionLab12\replace_a_tag\obj\Debug\net6.0\replace_a_tag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarro\source\repos\solutionLab12\replace_a_tag\obj\Debug\net6.0\replace_a_tag.AssemblyInfoInputs.cache
+C:\Users\tarro\source\repos\solutionLab12\replace_a_tag\obj\Debug\net6.0\replace_a_tag.AssemblyInfo.cs
+C:\Users\tarro\source\repos\solutionLab12\replace_a_tag\obj\Debug\net6.0\replace_a_tag.csproj.CoreCompileInputs.cache
+C:\Users\tarro\source\repos\solutionLab12\replace_a_tag\obj\Debug\net6.0\replace_a_tag.dll
+C:\Users\tarro\source\repos\solutionLab12\replace_a_tag\obj\Debug\net6.0\refint\replace_a_tag.dll
+C:\Users\tarro\source\repos\solutionLab12\replace_a_tag\obj\Debug\net6.0\replace_a_tag.pdb
+C:\Users\tarro\source\repos\solutionLab12\replace_a_tag\obj\Debug\net6.0\replace_a_tag.genruntimeconfig.cache
+C:\Users\tarro\source\repos\solutionLab12\replace_a_tag\obj\Debug\net6.0\ref\replace_a_tag.dll

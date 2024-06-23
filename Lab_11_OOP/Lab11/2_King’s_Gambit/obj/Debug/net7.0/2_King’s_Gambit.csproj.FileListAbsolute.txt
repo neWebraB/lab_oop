@@ -1,0 +1,14 @@
+D:\Домашка\ООП\Lab11\Lab11\2_King’s_Gambit\bin\Debug\net7.0\2_King’s_Gambit.exe
+D:\Домашка\ООП\Lab11\Lab11\2_King’s_Gambit\bin\Debug\net7.0\2_King’s_Gambit.deps.json
+D:\Домашка\ООП\Lab11\Lab11\2_King’s_Gambit\bin\Debug\net7.0\2_King’s_Gambit.runtimeconfig.json
+D:\Домашка\ООП\Lab11\Lab11\2_King’s_Gambit\bin\Debug\net7.0\2_King’s_Gambit.dll
+D:\Домашка\ООП\Lab11\Lab11\2_King’s_Gambit\bin\Debug\net7.0\2_King’s_Gambit.pdb
+D:\Домашка\ООП\Lab11\Lab11\2_King’s_Gambit\obj\Debug\net7.0\2_King’s_Gambit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашка\ООП\Lab11\Lab11\2_King’s_Gambit\obj\Debug\net7.0\2_King’s_Gambit.AssemblyInfoInputs.cache
+D:\Домашка\ООП\Lab11\Lab11\2_King’s_Gambit\obj\Debug\net7.0\2_King’s_Gambit.AssemblyInfo.cs
+D:\Домашка\ООП\Lab11\Lab11\2_King’s_Gambit\obj\Debug\net7.0\2_King’s_Gambit.csproj.CoreCompileInputs.cache
+D:\Домашка\ООП\Lab11\Lab11\2_King’s_Gambit\obj\Debug\net7.0\2_King’s_Gambit.dll
+D:\Домашка\ООП\Lab11\Lab11\2_King’s_Gambit\obj\Debug\net7.0\refint\2_King’s_Gambit.dll
+D:\Домашка\ООП\Lab11\Lab11\2_King’s_Gambit\obj\Debug\net7.0\2_King’s_Gambit.pdb
+D:\Домашка\ООП\Lab11\Lab11\2_King’s_Gambit\obj\Debug\net7.0\2_King’s_Gambit.genruntimeconfig.cache
+D:\Домашка\ООП\Lab11\Lab11\2_King’s_Gambit\obj\Debug\net7.0\ref\2_King’s_Gambit.dll

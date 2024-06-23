@@ -1,0 +1,14 @@
+C:\Users\tarro\source\repos\solutionLab12\match_phone_number\bin\Debug\net6.0\match_phone_number.exe
+C:\Users\tarro\source\repos\solutionLab12\match_phone_number\bin\Debug\net6.0\match_phone_number.deps.json
+C:\Users\tarro\source\repos\solutionLab12\match_phone_number\bin\Debug\net6.0\match_phone_number.runtimeconfig.json
+C:\Users\tarro\source\repos\solutionLab12\match_phone_number\bin\Debug\net6.0\match_phone_number.dll
+C:\Users\tarro\source\repos\solutionLab12\match_phone_number\bin\Debug\net6.0\match_phone_number.pdb
+C:\Users\tarro\source\repos\solutionLab12\match_phone_number\obj\Debug\net6.0\match_phone_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarro\source\repos\solutionLab12\match_phone_number\obj\Debug\net6.0\match_phone_number.AssemblyInfoInputs.cache
+C:\Users\tarro\source\repos\solutionLab12\match_phone_number\obj\Debug\net6.0\match_phone_number.AssemblyInfo.cs
+C:\Users\tarro\source\repos\solutionLab12\match_phone_number\obj\Debug\net6.0\match_phone_number.csproj.CoreCompileInputs.cache
+C:\Users\tarro\source\repos\solutionLab12\match_phone_number\obj\Debug\net6.0\match_phone_number.dll
+C:\Users\tarro\source\repos\solutionLab12\match_phone_number\obj\Debug\net6.0\refint\match_phone_number.dll
+C:\Users\tarro\source\repos\solutionLab12\match_phone_number\obj\Debug\net6.0\match_phone_number.pdb
+C:\Users\tarro\source\repos\solutionLab12\match_phone_number\obj\Debug\net6.0\match_phone_number.genruntimeconfig.cache
+C:\Users\tarro\source\repos\solutionLab12\match_phone_number\obj\Debug\net6.0\ref\match_phone_number.dll

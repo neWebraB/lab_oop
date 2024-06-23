@@ -1,0 +1,14 @@
+C:\Users\tarro\source\repos\solutionLab12\series_of_letterss\bin\Debug\net6.0\series_of_letterss.exe
+C:\Users\tarro\source\repos\solutionLab12\series_of_letterss\bin\Debug\net6.0\series_of_letterss.deps.json
+C:\Users\tarro\source\repos\solutionLab12\series_of_letterss\bin\Debug\net6.0\series_of_letterss.runtimeconfig.json
+C:\Users\tarro\source\repos\solutionLab12\series_of_letterss\bin\Debug\net6.0\series_of_letterss.dll
+C:\Users\tarro\source\repos\solutionLab12\series_of_letterss\bin\Debug\net6.0\series_of_letterss.pdb
+C:\Users\tarro\source\repos\solutionLab12\series_of_letterss\obj\Debug\net6.0\series_of_letterss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarro\source\repos\solutionLab12\series_of_letterss\obj\Debug\net6.0\series_of_letterss.AssemblyInfoInputs.cache
+C:\Users\tarro\source\repos\solutionLab12\series_of_letterss\obj\Debug\net6.0\series_of_letterss.AssemblyInfo.cs
+C:\Users\tarro\source\repos\solutionLab12\series_of_letterss\obj\Debug\net6.0\series_of_letterss.csproj.CoreCompileInputs.cache
+C:\Users\tarro\source\repos\solutionLab12\series_of_letterss\obj\Debug\net6.0\series_of_letterss.dll
+C:\Users\tarro\source\repos\solutionLab12\series_of_letterss\obj\Debug\net6.0\refint\series_of_letterss.dll
+C:\Users\tarro\source\repos\solutionLab12\series_of_letterss\obj\Debug\net6.0\series_of_letterss.pdb
+C:\Users\tarro\source\repos\solutionLab12\series_of_letterss\obj\Debug\net6.0\series_of_letterss.genruntimeconfig.cache
+C:\Users\tarro\source\repos\solutionLab12\series_of_letterss\obj\Debug\net6.0\ref\series_of_letterss.dll

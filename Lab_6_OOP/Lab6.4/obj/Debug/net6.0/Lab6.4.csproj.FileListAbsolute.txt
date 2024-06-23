@@ -1,0 +1,28 @@
+D:\Lab6 ООП\Lab6.4\bin\Debug\net6.0\Lab6.4.exe
+D:\Lab6 ООП\Lab6.4\bin\Debug\net6.0\Lab6.4.deps.json
+D:\Lab6 ООП\Lab6.4\bin\Debug\net6.0\Lab6.4.runtimeconfig.json
+D:\Lab6 ООП\Lab6.4\bin\Debug\net6.0\Lab6.4.dll
+D:\Lab6 ООП\Lab6.4\bin\Debug\net6.0\Lab6.4.pdb
+D:\Lab6 ООП\Lab6.4\obj\Debug\net6.0\Lab6.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab6 ООП\Lab6.4\obj\Debug\net6.0\Lab6.4.AssemblyInfoInputs.cache
+D:\Lab6 ООП\Lab6.4\obj\Debug\net6.0\Lab6.4.AssemblyInfo.cs
+D:\Lab6 ООП\Lab6.4\obj\Debug\net6.0\Lab6.4.csproj.CoreCompileInputs.cache
+D:\Lab6 ООП\Lab6.4\obj\Debug\net6.0\Lab6.4.dll
+D:\Lab6 ООП\Lab6.4\obj\Debug\net6.0\refint\Lab6.4.dll
+D:\Lab6 ООП\Lab6.4\obj\Debug\net6.0\Lab6.4.pdb
+D:\Lab6 ООП\Lab6.4\obj\Debug\net6.0\Lab6.4.genruntimeconfig.cache
+D:\Lab6 ООП\Lab6.4\obj\Debug\net6.0\ref\Lab6.4.dll
+D:\Lab_OOP\Lab_6_OOP\Lab6.4\bin\Debug\net6.0\Lab6.4.exe
+D:\Lab_OOP\Lab_6_OOP\Lab6.4\bin\Debug\net6.0\Lab6.4.deps.json
+D:\Lab_OOP\Lab_6_OOP\Lab6.4\bin\Debug\net6.0\Lab6.4.runtimeconfig.json
+D:\Lab_OOP\Lab_6_OOP\Lab6.4\bin\Debug\net6.0\Lab6.4.dll
+D:\Lab_OOP\Lab_6_OOP\Lab6.4\bin\Debug\net6.0\Lab6.4.pdb
+D:\Lab_OOP\Lab_6_OOP\Lab6.4\obj\Debug\net6.0\Lab6.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab_OOP\Lab_6_OOP\Lab6.4\obj\Debug\net6.0\Lab6.4.AssemblyInfoInputs.cache
+D:\Lab_OOP\Lab_6_OOP\Lab6.4\obj\Debug\net6.0\Lab6.4.AssemblyInfo.cs
+D:\Lab_OOP\Lab_6_OOP\Lab6.4\obj\Debug\net6.0\Lab6.4.csproj.CoreCompileInputs.cache
+D:\Lab_OOP\Lab_6_OOP\Lab6.4\obj\Debug\net6.0\Lab6.4.dll
+D:\Lab_OOP\Lab_6_OOP\Lab6.4\obj\Debug\net6.0\refint\Lab6.4.dll
+D:\Lab_OOP\Lab_6_OOP\Lab6.4\obj\Debug\net6.0\Lab6.4.pdb
+D:\Lab_OOP\Lab_6_OOP\Lab6.4\obj\Debug\net6.0\Lab6.4.genruntimeconfig.cache
+D:\Lab_OOP\Lab_6_OOP\Lab6.4\obj\Debug\net6.0\ref\Lab6.4.dll

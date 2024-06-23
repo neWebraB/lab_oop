@@ -1,0 +1,14 @@
+D:\Домашка\ООП\Lab11\Lab11\Lab11\bin\Debug\net7.0\1_Event_Implementation.exe
+D:\Домашка\ООП\Lab11\Lab11\Lab11\bin\Debug\net7.0\1_Event_Implementation.deps.json
+D:\Домашка\ООП\Lab11\Lab11\Lab11\bin\Debug\net7.0\1_Event_Implementation.runtimeconfig.json
+D:\Домашка\ООП\Lab11\Lab11\Lab11\bin\Debug\net7.0\1_Event_Implementation.dll
+D:\Домашка\ООП\Lab11\Lab11\Lab11\bin\Debug\net7.0\1_Event_Implementation.pdb
+D:\Домашка\ООП\Lab11\Lab11\Lab11\obj\Debug\net7.0\1_Event_Implementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашка\ООП\Lab11\Lab11\Lab11\obj\Debug\net7.0\1_Event_Implementation.AssemblyInfoInputs.cache
+D:\Домашка\ООП\Lab11\Lab11\Lab11\obj\Debug\net7.0\1_Event_Implementation.AssemblyInfo.cs
+D:\Домашка\ООП\Lab11\Lab11\Lab11\obj\Debug\net7.0\1_Event_Implementation.csproj.CoreCompileInputs.cache
+D:\Домашка\ООП\Lab11\Lab11\Lab11\obj\Debug\net7.0\1_Event_Implementation.dll
+D:\Домашка\ООП\Lab11\Lab11\Lab11\obj\Debug\net7.0\refint\1_Event_Implementation.dll
+D:\Домашка\ООП\Lab11\Lab11\Lab11\obj\Debug\net7.0\1_Event_Implementation.pdb
+D:\Домашка\ООП\Lab11\Lab11\Lab11\obj\Debug\net7.0\1_Event_Implementation.genruntimeconfig.cache
+D:\Домашка\ООП\Lab11\Lab11\Lab11\obj\Debug\net7.0\ref\1_Event_Implementation.dll
